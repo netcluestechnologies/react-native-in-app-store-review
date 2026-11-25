@@ -10,7 +10,9 @@ Uses the **Google Play In-App Review API** on Android and **Apple StoreKit** (`A
 
 ### Android (Google Play In-App Review Flow)
 <p align="center">
-  <img src="./docs/images/android-preview.jpg" width="100%" alt="Google Play In-App Review Flow" />
+  <a href="https://developer.android.com/guide/playcore/in-app-review" target="_blank" rel="noopener noreferrer">
+    <img src="./docs/images/android-preview.jpg" width="100%" alt="Google Play In-App Review Flow" />
+  </a>
 </p>
 
 ### iOS (Apple StoreKit Review Prompt)
