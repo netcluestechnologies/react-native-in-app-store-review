@@ -43,18 +43,26 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "in-app-review",
+    "in-app-rating",
+    "store-review",
+    "app-rating",
+    "play-store",
+    "app-store",
+    "storekit",
+    "turbo-module"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/netcluestechnologies/react-native-in-app-rating.git-native-in-app-rating.githttps://github.com/YOUR_GITHUB_USERNAME/react-native-in-app-rating.git.git"
+    "url": "git+https://github.com/netcluestechnologies/react-native-in-app-rating.git"
   },
   "author": "Netclues <mobile@netclues.com> (https://www.npmjs.com/settings/netcluestechnologies/profile)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/netcluestechnologies/react-native-in-app-rating.git-native-in-app-rating.githttps://github.com/YOUR_GITHUB_USERNAME/react-native-in-app-rating.git/issues"
+    "url": "https://github.com/netcluestechnologies/react-native-in-app-rating/issues"
   },
-  "homepage": "https://github.com/netcluestechnologies/react-native-in-app-rating.git-native-in-app-rating.githttps://github.com/YOUR_GITHUB_USERNAME/react-native-in-app-rating.git#readme",
+  "homepage": "https://github.com/netcluestechnologies/react-native-in-app-rating#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
