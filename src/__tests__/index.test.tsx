@@ -10,7 +10,7 @@ jest.mock('../NativeInAppRating', () => ({
   },
 }));
 
-describe('react-native-in-app-rating', () => {
+describe('react-native-in-app-store-review', () => {
   beforeEach(() => {
     mockRequestReview.mockReset();
   });

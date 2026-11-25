@@ -15,7 +15,7 @@ import InAppRating from './NativeInAppRating';
  *
  * @example
  * ```ts
- * import { requestReview } from 'react-native-in-app-rating';
+ * import { requestReview } from 'react-native-in-app-store-review';
  *
  * const handleRating = async () => {
  *   try {

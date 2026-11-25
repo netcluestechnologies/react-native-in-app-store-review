@@ -1,12 +1,12 @@
 {
-  "name": "react-native-in-app-rating",
+  "name": "react-native-in-app-store-review",
   "version": "0.1.0",
   "description": "Native in-app store rating and review prompts for React Native apps on Android and iOS.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
     ".": {
-      "react-native-in-app-rating-source": "./src/index.tsx",
+      "react-native-in-app-store-review-source": "./src/index.tsx",
       "types": "./lib/typescript/src/index.d.ts",
       "default": "./lib/module/index.js"
     },
@@ -140,7 +140,7 @@
       "customExportConditions": [
         "require",
         "react-native",
-        "react-native-in-app-rating-source"
+        "react-native-in-app-store-review-source"
       ]
     },
     "modulePathIgnorePatterns": [

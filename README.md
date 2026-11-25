@@ -1,4 +1,4 @@
-# react-native-in-app-rating
+# react-native-in-app-store-review
 
 Native in-app store rating and review prompts for React Native apps on Android and iOS.
 
@@ -33,7 +33,7 @@ Uses the **Google Play In-App Review API** on Android and **Apple StoreKit** (`A
 ## Installation
 
 ```sh
-npm install react-native-in-app-rating
+npm install react-native-in-app-store-review
 ```
 
 ### iOS — CocoaPods
@@ -59,7 +59,7 @@ No additional configuration is required. The Google Play In-App Review dependenc
 ## Usage
 
 ```ts
-import { requestReview } from 'react-native-in-app-rating';
+import { requestReview } from 'react-native-in-app-store-review';
 
 const handleRating = async () => {
   try {
@@ -76,7 +76,7 @@ const handleRating = async () => {
 ```tsx
 import { useState } from 'react';
 import { Button, Alert } from 'react-native';
-import { requestReview } from 'react-native-in-app-rating';
+import { requestReview } from 'react-native-in-app-store-review';
 
 export default function App() {
   const [loading, setLoading] = useState(false);

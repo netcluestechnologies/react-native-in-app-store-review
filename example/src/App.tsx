@@ -8,7 +8,7 @@ import {
   Alert,
   Platform,
 } from 'react-native';
-import { requestReview } from 'react-native-in-app-rating';
+import { requestReview } from 'react-native-in-app-store-review';
 
 export default function App() {
   const [status, setStatus] = useState<string>('');
