@@ -1,0 +1,55 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Android Phone Frame -->
+  <rect width="400" height="600" rx="32" fill="#0F172A"/>
+  
+  <!-- Subtle App Screen Background -->
+  <rect x="16" y="16" width="368" height="568" rx="24" fill="#1E293B" opacity="0.9"/>
+  <!-- Front Camera punch hole -->
+  <circle cx="200" cy="36" r="6" fill="#0F172A"/>
+  
+  <!-- Dimmed overlay -->
+  <rect x="16" y="16" width="368" height="568" rx="24" fill="#000000" opacity="0.55"/>
+  
+  <!-- Google Play Bottom Sheet -->
+  <rect x="24" y="270" width="352" height="306" rx="24" fill="#FFFFFF"/>
+  
+  <!-- Handle Bar -->
+  <rect x="176" y="280" width="48" height="4" rx="2" fill="#CBD5E1"/>
+  
+  <!-- Google Play In-App Review Header -->
+  <g transform="translate(44, 300)">
+    <!-- Play Store Icon mark -->
+    <path d="M4 3L16 11L4 19V3Z" fill="#00C1A6"/>
+    <path d="M16 11L21 7.5L4 3L16 11Z" fill="#0086F9"/>
+    <path d="M16 11L4 19L21 14.5L16 11Z" fill="#FF334B"/>
+    <path d="M21 7.5L24 10.5L21 14.5L16 11L21 7.5Z" fill="#FFBA00"/>
+    <text x="32" y="15" font-family="'Google Sans', Roboto, sans-serif" font-size="13" font-weight="500" fill="#5F6368">Google Play</text>
+  </g>
+  
+  <!-- App Icon and Name -->
+  <rect x="44" y="336" width="44" height="44" rx="10" fill="#2563EB"/>
+  <text x="100" y="354" font-family="'Google Sans', Roboto, sans-serif" font-size="15" font-weight="600" fill="#1E293B">Your React Native App</text>
+  <text x="100" y="372" font-family="Roboto, sans-serif" font-size="12" fill="#64748B">Rate this app on Google Play</text>
+  
+  <!-- 5 Star Interactive Icons -->
+  <g transform="translate(70, 404)">
+    <path d="M18 2L22.8 13.2L34.4 14.3L25.6 22.2L28.2 34L18 27.8L7.8 34L10.4 22.2L1.6 14.3L13.2 13.2L18 2Z" fill="#F59E0B"/>
+    <path d="M68 2L72.8 13.2L84.4 14.3L75.6 22.2L78.2 34L68 27.8L57.8 34L60.4 22.2L51.6 14.3L63.2 13.2L68 2Z" fill="#F59E0B"/>
+    <path d="M118 2L122.8 13.2L134.4 14.3L125.6 22.2L128.2 34L118 27.8L107.8 34L110.4 22.2L101.6 14.3L113.2 13.2L118 2Z" fill="#F59E0B"/>
+    <path d="M168 2L172.8 13.2L184.4 14.3L175.6 22.2L178.2 34L168 27.8L157.8 34L160.4 22.2L151.6 14.3L163.2 13.2L168 2Z" fill="#F59E0B"/>
+    <path d="M218 2L222.8 13.2L234.4 14.3L225.6 22.2L228.2 34L218 27.8L207.8 34L210.4 22.2L201.6 14.3L213.2 13.2L218 2Z" fill="#E2E8F0"/>
+  </g>
+  
+  <!-- Review input hint -->
+  <rect x="44" y="456" width="312" height="44" rx="8" stroke="#E2E8F0" fill="#F8FAFC"/>
+  <text x="56" y="483" font-family="Roboto, sans-serif" font-size="13" fill="#94A3B8">Describe your experience (optional)...</text>
+  
+  <!-- Buttons -->
+  <text x="64" y="540" font-family="'Google Sans', Roboto, sans-serif" font-size="14" font-weight="600" fill="#059669">Cancel</text>
+  <rect x="256" y="516" width="100" height="38" rx="19" fill="#059669"/>
+  <text x="306" y="540" text-anchor="middle" font-family="'Google Sans', Roboto, sans-serif" font-size="14" font-weight="600" fill="#FFFFFF">Submit</text>
+  
+  <!-- Badge on top -->
+  <rect x="120" y="230" width="160" height="28" rx="14" fill="#059669"/>
+  <text x="200" y="249" text-anchor="middle" font-family="Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Google Play In-App</text>
+</svg>
