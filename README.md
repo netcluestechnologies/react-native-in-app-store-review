@@ -34,8 +34,6 @@ Uses the **Google Play In-App Review API** on Android and **Apple StoreKit** (`A
 
 ```sh
 npm install react-native-in-app-rating
-# or
-yarn add react-native-in-app-rating
 ```
 
 ### iOS — CocoaPods
