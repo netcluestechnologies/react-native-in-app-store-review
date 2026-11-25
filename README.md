@@ -6,6 +6,20 @@ Uses the **Google Play In-App Review API** on Android and **Apple StoreKit** (`A
 
 ---
 
+## 📱 Preview
+
+### Android (Google Play In-App Review Flow)
+<p align="center">
+  <img src="./docs/images/android-preview.jpg" width="100%" alt="Google Play In-App Review Flow" />
+</p>
+
+### iOS (Apple StoreKit Review Prompt)
+<p align="center">
+  <img src="./docs/images/ios-preview.jpg" width="320" alt="iOS StoreKit Review Prompt" />
+</p>
+
+---
+
 ## Features
 
 - 🤖 **Android** — Google Play In-App Review API (`com.google.android.play:review`)
